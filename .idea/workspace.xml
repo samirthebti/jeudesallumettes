@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed656e7-e836-4602-9d93-448221e73669" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.component.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -97,9 +97,10 @@
       <file leaf-file-name="game.service.spec.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="276">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding>
+                <element signature="n#!!doc" expanded="true" />
                 <element signature="e#37#95#0" expanded="true" />
               </folding>
             </state>
@@ -111,7 +112,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Jeudesallumettes/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -159,8 +160,9 @@
         <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.ts" />
-        <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts" />
         <option value="$PROJECT_DIR$/Jeudesallumettes/README.md" />
+        <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts" />
+        <option value="$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts" />
       </list>
     </option>
   </component>
@@ -323,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.TEST">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -365,6 +367,12 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="TEST" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/Jeudesallumettes/package.json" />
+      <command value="test" />
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
     <configuration name="Unnamed" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/Jeudesallumettes/package.json" />
       <command value="run" />
@@ -375,6 +383,10 @@
       <node-interpreter value="project" />
       <envs />
     </configuration>
+    <list>
+      <item itemvalue="npm.Unnamed" />
+      <item itemvalue="npm.TEST" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -386,12 +398,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530130674670</updated>
-      <workItem from="1530130680444" duration="20591000" />
+      <workItem from="1530130680444" duration="22459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20591000" />
+    <option name="totallyTimeSpent" value="22459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -546,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jeudesallumettes/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -597,16 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding>
-            <element signature="e#37#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jeudesallumettes/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -614,6 +606,27 @@
             <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/service/game.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#37#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jeudesallumettes/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
