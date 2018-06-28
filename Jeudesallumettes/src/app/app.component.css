@@ -1,0 +1,14 @@
+.cadre {
+  background-color: lavender;
+  margin: 40px;
+  padding: 20px;
+}
+
+.allumetteImage {
+  background: url("../assets/images/allumetteimage.jpg") no-repeat;
+  height: 25px;
+  width: 25px;
+  visibility: visible;
+  display: inline-block;
+  background-size: contain;
+}
